@@ -1,1 +1,6 @@
 this is framework
+git remote -v
+
+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
+
+git remote set-url origin https://ghp
